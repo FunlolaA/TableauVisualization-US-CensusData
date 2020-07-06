@@ -1,2 +1,2 @@
 # Data Visualization
-This Repository contains Tableau visualization
+This Repository contain visualizations in Tableau
