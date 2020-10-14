@@ -17,7 +17,7 @@ An interactive version of the plot can be accessed on my Tableau Public Link:
 
 ### Rate of Poverty
 
-![Income Disparity](https://user-images.githubusercontent.com/66134645/96023414-64558280-0e20-11eb-850d-566c0e319301.png | width =100)
+![Income Disparity](https://user-images.githubusercontent.com/66134645/96023414-64558280-0e20-11eb-850d-566c0e319301.png)
 
 #### Insights:
 - The bar chart simply highlights the average rate of poverty in the States. The chart shows Puerto Rico to have the highest rate of poverty at 49% and Connecticut with the least rate at 9.4%
