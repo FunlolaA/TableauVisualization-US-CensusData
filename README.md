@@ -29,4 +29,4 @@ I came up with two research questions
 The Scatter plot shows the relationship between the average Poverty and Unemployment rates. The correlation coefficient of 0.64 indicate a positive and moderate relationship between the two variables. This suggests that as Unemployment rate increases, poverty rates increase and vice-versa.
 
 An interactive version of the plot can be accessed on my Tableau Public Link: 
-[Income Disparity] (https://public.tableau.com/profile/funlola.adeeko#!/vizhome/Income_PovertyDisparity/IncomeDisparity?publish=yes)
+[Income Disparity](https://public.tableau.com/profile/funlola.adeeko#!/vizhome/Income_PovertyDisparity/IncomeDisparity?publish=yes)
