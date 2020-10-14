@@ -5,7 +5,7 @@ This project explores the US Census Data from Kaggle. It includes the census dat
 
 ### Objective
 The goal of this project is to answer this main question:  How does income and poverty look across America? In order to answer the main question,
-I came up with two research questions 
+I came up with two research questions. 
 
 ### Research Questions
 - On average, what does the rate of poverty looks like in the United States?
