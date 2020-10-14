@@ -11,9 +11,13 @@ I came up with two research questions
 - On average, what does the rate of poverty looks like in the United States?
 - What is the relationship between Poverty and Unemployment rates?
 
+An interactive version of the plot can be accessed on my Tableau Public Link: 
+[Income Disparity](https://public.tableau.com/profile/funlola.adeeko#!/vizhome/Income_PovertyDisparity/IncomeDisparity?publish=yes)
+
+
 ### Rate of Poverty
 
-![Income Disparity](https://user-images.githubusercontent.com/66134645/96023414-64558280-0e20-11eb-850d-566c0e319301.png)
+![Income Disparity](https://user-images.githubusercontent.com/66134645/96023414-64558280-0e20-11eb-850d-566c0e319301.png | width =100)
 
 #### Insights:
 - The bar chart simply highlights the average rate of poverty in the States. The chart shows Puerto Rico to have the highest rate of poverty at 49% and Connecticut with the least rate at 9.4%
@@ -28,5 +32,3 @@ I came up with two research questions
 
 The Scatter plot shows the relationship between the average Poverty and Unemployment rates. The correlation coefficient of 0.64 indicate a positive and moderate relationship between the two variables. This suggests that as Unemployment rate increases, poverty rates increase and vice-versa.
 
-An interactive version of the plot can be accessed on my Tableau Public Link: 
-[Income Disparity](https://public.tableau.com/profile/funlola.adeeko#!/vizhome/Income_PovertyDisparity/IncomeDisparity?publish=yes)
