@@ -11,7 +11,7 @@ I came up with two research questions.
 - On average, what does the rate of poverty looks like in the United States?
 - What is the relationship between Poverty and Unemployment rates?
 
-An interactive version of the plot can be accessed on my Tableau Public Link: 
+The interactive version of the plots can be accessed on my Tableau Public Link: 
 [Income Disparity](https://public.tableau.com/profile/funlola.adeeko#!/vizhome/Income_PovertyDisparity/IncomeDisparity?publish=yes)
 
 
